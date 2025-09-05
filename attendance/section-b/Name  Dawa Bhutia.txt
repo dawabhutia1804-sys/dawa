@@ -3,4 +3,6 @@ Rollno : 10
 section : b
 
 learning :
-I learn to new and interesting thing from this workshop
+I learn new and interesting thing from this workshop.
+I learn to create GitHub account.
+I also learn to add , commit, clone, merge and many more.
